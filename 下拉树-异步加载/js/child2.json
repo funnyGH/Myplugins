@@ -1,0 +1,14 @@
+{
+  "data": [
+      {
+        "childCode": "21",
+        "childName": "二级菜单1"
+      },
+      {
+        "childCode": "22",
+        "childName": "二级菜单2"
+      }
+  ],
+  "msg": "ok",
+  "result": true
+}

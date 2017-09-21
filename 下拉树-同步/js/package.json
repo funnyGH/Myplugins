@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "childrenList": [
+        {
+          "childrenList": [
+            {
+              "childrenList": [],
+              "subSystemCode": "zhouxitong",
+              "subSystemName": "轴系统"
+            },
+            {
+              "childrenList": [],
+              "subSystemCode": "JZ",
+              "subSystemName": "子系统"
+            }
+          ],
+          "equipmentCode": "203404890",
+          "equipmentName": "乙烯SL-101"
+        },
+        {
+          "childrenList": [
+            {
+              "childrenList": [],
+              "subSystemCode": "RHY111",
+              "subSystemName": "油系统"
+            }
+          ],
+          "equipmentCode": "109090",
+          "equipmentName": "乙烯BA-105"
+        }
+      ],
+      "functionpositionCode": "ZHHG",
+      "functionpositionName": "循环气体"
+    }
+  ],
+  "msg": "ok",
+  "result": true
+}

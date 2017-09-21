@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "childrenList": [
+        {
+          "childrenList": [
+            {
+              "childrenList": [],
+              "subSystemCode": "zhouxitong",
+              "subSystemName": "轴系统"
+            },
+            {
+              "childrenList": [],
+              "subSystemCode": "JZ",
+              "subSystemName": "机组子系统"
+            }
+          ],
+          "equipmentCode": "203404890",
+          "equipmentName": "乙烯SL-I型乙烷炉BA-101"
+        },
+        {
+          "childrenList": [
+            {
+              "childrenList": [],
+              "subSystemCode": "RHY111",
+              "subSystemName": "润滑油系统"
+            }
+          ],
+          "equipmentCode": "109090",
+          "equipmentName": "乙烯SL-I型重油炉BA-105"
+        }
+      ],
+      "functionpositionCode": "ZHHG-YXZZ-00-BA101",
+      "functionpositionName": "乙烯装置循环气体裂解炉BA-101"
+    }
+  ],
+  "msg": "ok",
+  "result": true
+}
